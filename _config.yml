@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Katie E. Bristol"
-  avatar           : "images/photo.jpg"
+  avatar           : "/images/photo.jpg"
   bio              : "PhD Student studying Paleomagnetism and Geochronology"
   location         : "Department of Geological Sciences<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;University of Florida<br>
