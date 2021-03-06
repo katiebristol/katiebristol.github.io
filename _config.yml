@@ -5,16 +5,16 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "katiebristol/katiebristol.github.io"
-minimal_mistakes_skin    : "constrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "katiebristol/katiebristol.github.io"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Katie E. Bristol"
 title_separator          : "-"
-name                     : "Katie E. Bristol"
-description              : "Hey there!"
+name                     : &name "Katie E. Bristol"
+description              : &description "personal description"
 url                      : https://katiebristol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katiebristol/katiebristol.github.io"

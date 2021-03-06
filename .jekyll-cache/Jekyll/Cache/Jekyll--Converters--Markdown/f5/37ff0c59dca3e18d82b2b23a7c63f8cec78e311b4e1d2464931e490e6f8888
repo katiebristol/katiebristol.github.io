@@ -1,0 +1,73 @@
+I"P	
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            
+            <img src="/images/dynamo.jpg" alt="geodynamo" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            
+              <h2 class="archive__item-title">Origin and evolution of Earth's magnetic field</h2>
+            
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>I am interested in the origin and evolution of Earth’s magnetic field as well as how it links to processes within Earth’s deep interior. One way to investigate this involves looking at long-term trends in paleointensity records. However, only ~8% (as of 2015, http://earth.liv.ac.uk/pint/) paleointensity determinations are from the Precambrian despite the fact that this time period represents more than 85% of geologic history. Because of this, much of my work thus far has included Precambrian rocks including basalts from the ~1.1Ga Midcontinent Rift.</p>
+
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            
+            <img src="/images/Kappa.jpg" alt="kappa" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            
+              <h2 class="archive__item-title">Rock magnetic properties of extraterrestiral mineral assemblages</h2>
+            
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>In addition to magnetic processes on Earth, I am interested in constraining the magnetic fields of the ancient Solar nebula. To explore this topic, I have worked on several projects related to meteorites and their constituents. My main goal is to better understand the minerals in these magnetic assemblages and how they carry magnetic records through deep time. I do this primarily through rock magnetic methods such as hysteresis and FORC analysis, thermomagnetic characterization, and thermal and alternating field demagnetization experiments.</p>
+
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+:ET
