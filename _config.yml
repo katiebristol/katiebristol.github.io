@@ -95,9 +95,13 @@ analytics:
 # Site Author
 author:
   name             : "Katie E. Bristol"
-  avatar           : "/assets/images/photo.jpg"
+  avatar           : "../assets/images/photo.jpg"
   bio              : "PhD Student studying Paleomagnetism and Geochronology"
-  location         : "Gainesville, FL"
+  location         : "Department of Geological Sciences<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;University of Florida<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;268 Williamson Hall<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;1843 Stadium Road<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Gainesville, FL 32611, USA"
   email            : "katiebristol@ufl.edu"
   links:
     - label: "Email"
@@ -105,7 +109,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://scholar.google.com/citations?user=Y6_xRjkAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/rockmagnetism"
