@@ -106,7 +106,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "katiebristol@ufl.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=Y6_xRjkAAAAJ&hl=en"
