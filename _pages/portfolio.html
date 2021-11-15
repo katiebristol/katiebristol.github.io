@@ -7,14 +7,13 @@ header:
   overlay_image: banner3.jpg
   actions:
 excerpt: "Photos taken during fieldwork, hikes, and other adventures. (Click each collection to see more)"
-permalink: /portfolio/
+permalink: /gallery/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<center>
-  {% for post in site.portfolio %}
-    {% include archive-single.html %}
-  {% endfor %}
-</center>
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
