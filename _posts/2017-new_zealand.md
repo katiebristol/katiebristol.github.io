@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'New Zealand '
+date: 2017
+permalink: /posts/2017/new_zealand/
 tags:
   - cool posts
   - category1
