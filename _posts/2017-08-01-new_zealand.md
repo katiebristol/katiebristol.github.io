@@ -1,5 +1,6 @@
 ---
-title: 'New Zealand '
+title: 'New Zealand'
+excerpt: "Frontiers Abroad Field Geology Camp, Summer 2017<br/><img src='/images/ngauruhoe.jpg'>"
 date: 2017-08-01
 permalink: /posts/2017/08/new_zealand/
 tags:
