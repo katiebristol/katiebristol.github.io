@@ -1,7 +1,7 @@
 ---
 title: 'New Zealand '
-date: 2017
-permalink: /posts/2017/new_zealand/
+date: 2017-08-01
+permalink: /posts/2017/08/new_zealand/
 tags:
   - cool posts
   - category1
