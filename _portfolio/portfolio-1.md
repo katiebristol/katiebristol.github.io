@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "New Zealand"
+excerpt: "Frontiers Abroad Field Geology Camp, Summer 2017<br/><img src='/images/ngauruhoe.jpg'>"
 collection: portfolio
 ---
 
