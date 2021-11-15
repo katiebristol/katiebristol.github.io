@@ -3,9 +3,8 @@ title: 'New Zealand '
 date: 2017-08-01
 permalink: /posts/2017/08/new_zealand/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - undergrad
+  - coursework
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
