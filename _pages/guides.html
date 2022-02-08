@@ -20,3 +20,11 @@ Eventually it will contain things such as:<br>
     <li>Laboratory maintenance outlines</li>
     <li>Guides/how-to's for things I know I will forget</li>
 </ul>
+
+{% include base_path %}
+
+<center>
+  {% for post in site.guides %}
+    {% include archive-single.html %}
+  {% endfor %}
+</center>
