@@ -187,6 +187,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  guides:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -231,6 +234,15 @@ defaults:
       share: true
       comments: true
   # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _guides
   - scope:
       path: ""
       type: portfolio
