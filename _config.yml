@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Katie E. Bristol"
 title_separator          : "-"
 name                     : &name "Katie E. Bristol"
-description              : &description "PhD Student, Neil Opdyke Paleomagnetic Laboratory, University of Florida"
+description              : &description "PhD Candidate, Neil Opdyke Paleomagnetic Laboratory, University of Florida"
 url                      : https://katiebristol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katiebristol/katiebristol.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Katie E. Bristol"
   avatar           : "profile.jpg"
-  bio              : "PhD Student studying Paleomagnetism and Geochronology"
+  bio              : "PhD Candidate studying Paleomagnetism and Geochronology"
   location         : "Department of Geological Sciences<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;University of Florida<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;268 Williamson Hall<br>
