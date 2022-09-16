@@ -1,15 +1,20 @@
 ---
 layout: archive
-title: "Gallery"
-excerpt: "Photos taken during fieldwork, hikes, and other adventures."
-permalink: /portfolio/
+title: "Photo collections"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: banner3.jpg
+  actions:
+excerpt: "Photos taken during fieldwork, hikes, and other adventures. (Click each collection to see more)"
+permalink: /gallery/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<center>
+  {% for post in site.portfolio %}
+    {% include archive-single.html %}
+  {% endfor %}
+</center>
