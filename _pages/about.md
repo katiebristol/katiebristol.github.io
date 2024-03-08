@@ -15,7 +15,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am graduating in late 2024 and will be looking for postdocs/jobs - Please contact me if you are interested in working together!** 
+**This website is under construction** 
 
 Research
 ======
