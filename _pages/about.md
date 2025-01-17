@@ -9,7 +9,7 @@ header:
   overlay_image: banner.jpg
   actions:
   caption: ""
-excerpt: "PhD Candidate, University of Florida"
+excerpt: "Postdoc, Purdue University"
 redirect_from: 
   - /about/
   - /about.html
@@ -21,11 +21,11 @@ Research
 ======
 I am a "paleomagician" interested in the formation and evolution of planetary magnetic fields and how it can inform us on the history of Earth and other planets. Additionally, I want to better understand the materials that carry these records through deep time. My work aims to span both terrestrial and extraterrestrial mineral assemblages, nanoscale to planetary scale dynamics, and incorporates magnetic and non-magnetic methods.
 
-I am currently a PhD candidate at the University of Florida where I am studying paleomagnetism and geochronology to investigate Earth and planetary processes across varying timescales.
+I am currently a Postdoctoral Research Scientist at Purdue University where I am studying the magnetic records preserved in meteorites in order to understand the formation and evolution of Young Stellar Objects and protoplanetary disks. 
 
 Hobbies
 ======
-In my free time I enjoy biking, hiking, amateur astronomy, photography, and music.
+In my free time I enjoy biking, hiking, amateur astronomy, photography, and crochet.
 Some of my astrophotos are below - from left to right: Comet C/2020 F3 (NEOWISE), the Lunar surface, and Saturn.
 <html>
 <body>

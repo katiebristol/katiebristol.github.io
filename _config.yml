@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Katie E. Bristol"
 title_separator          : "-"
 name                     : &name "Katie E. Bristol"
-description              : &description "PhD Candidate, Neil Opdyke Paleomagnetic Laboratory, University of Florida"
+description              : &description "Postdoc, Purdue University"
 url                      : https://katiebristol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katiebristol/katiebristol.github.io"
@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Katie E. Bristol"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate studying Paleomagnetism and Geochronology"
-  location         : "Department of Geological Sciences<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;University of Florida<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;268 Williamson Hall<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Gainesville, FL 32611, USA"
+  bio              : "Postdoc in Planetary Magnetism"
+  location         : "Department of Earth, Atmospheric, and Planetary Sciences<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Purdue University<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;268 Hampton Hall<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;West Lafayette, IN, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y6_xRjkAAAAJ&hl=en"
-  email            : "katiebristol@ufl.edu"
+  email            : "kebristo@purdue.edu"
   researchgate     : "https://www.researchgate.net/profile/Katie-Bristol-3"
   uri              :
   bitbucket        :
