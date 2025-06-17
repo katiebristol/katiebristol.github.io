@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Katie E. Bristol"
+title                    : "Katie E. Bristol, PhD"
 title_separator          : "-"
 name                     : &name "Katie E. Bristol"
 description              : &description "NSF Postdoc Fellow, Purdue University"
@@ -23,7 +23,7 @@ repository               : "katiebristol/katiebristol.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Katie E. Bristol"
   pronouns         : # example: "she/her"  
   bio              : "NSF Astronomy & Astrophysics Postdoc Fellow"
   location         : "West Lafayette, IN"
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3040-5653"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : "https://www.researchgate.net/profile/Katie-Bristol-3"
   scopus           : # URL
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "rockmagnetism" # Replace this with you Bluesky username
+  bluesky          : "rockmagnetism.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
