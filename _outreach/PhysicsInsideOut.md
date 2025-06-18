@@ -22,14 +22,10 @@ In this hands-on activity, students explored the science of impact cratering and
 
 <html>
 <body>
-<div style="width: 1600;">
-  <iframe
-          src="/images/pio-cratering.mp4"  
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen>
-  </iframe>
-</div>
+<video width="800" controls>
+  <source src="/images/pio-cratering.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <figcaption>Slow-motion video of some cratering!</figcaption>
 </body>
 </html>

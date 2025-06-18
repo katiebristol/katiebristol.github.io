@@ -39,14 +39,10 @@ In this demonstration, students witnessed a “trashcan volcano” eruption -- a
 
 <html>
 <body>
-<div style="width: 1600;">
-  <iframe
-          src="/images/cydi-trashcanvolcano.mp4"  
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen>
-  </iframe>
-</div>
+<video width="800" controls>
+  <source src="/images/cydi-trashcanvolcano.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <figcaption>The trashcan volcano in action!</figcaption>
 </body>
 </html>
