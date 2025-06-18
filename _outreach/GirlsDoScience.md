@@ -20,5 +20,5 @@ Kids explored a hands-on collection of colorful minerals, unique rocks, and real
 Picture Yourself as a Scientist
 ======
 This interactive booth introduced kids to the tools real geoscientists use -- from rock hammers and compasses to field notebooks and computers. Young explorers got to dress up in safety vests and hard hats, pose with real scientific gear, and snap a photo to imagine themselves as future scientists in the field.
-<img src='/images/girlsdoscience-3.jpg' width='300', alt='Photo by Kimberly Blum (WUFT/NPR/PBS)'>
+<img src='/images/girlsdoscience-3.jpg' width='300' alt='Photo by Kimberly Blum (WUFT/NPR/PBS)'>
 
