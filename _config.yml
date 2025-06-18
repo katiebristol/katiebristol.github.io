@@ -215,7 +215,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  outreach:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -249,10 +249,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _outreach
   - scope:
       path: ""
-      type: teaching
+      type: outreach
     values:
       layout: single
       author_profile: true

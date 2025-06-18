@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/girls-do-science
 venue: "Florida Museum of Natural Science"
-date: 2024-02-11
+date: 2023,2024
 location: "Gainesville, FL"
 ---
 
