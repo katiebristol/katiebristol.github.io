@@ -3,9 +3,9 @@ title: "Girls Do Science (2023-2024)"
 excerpt: "To celebrate International Women and Girls in Science Day this free, family-friendly program features hands-on activities, engaging experiments, and opportunities to connect with scientists from a variety of fields.<br/><img src='/images/girlsdoscience-1.jpg' width='500'>"
 collection: portfolio
 ---
-<img src='/images/FLmuseum.png' width='175'><img src='/images/awg.png' width='200'>
+<img src='/images/FLmuseum.png' width='200'><img src='/images/awg.png' width='200'>
 
-<img src='/images/girlsdoscience-online.jpg' width='300' style="float: right; margin-left: 15px;">
+<img src='/images/girlsdoscience-online.jpg' width='200' style="float: right; margin-left: 15px;">
 To celebrate International Women and Girls in Science Day this free, family-friendly program features hands-on activities, engaging experiments, and opportunities to connect with scientists from a variety of fields. 
 
 Explore science at home with the [Girls Do Science FREE activity book](https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/36/2021/01/2020-NEA-BigRead-Girls-Do-Science-Activity-Book-lowres.pdf), featuring fun, hands-on projects for all ages—plus dedicated sections for Elementary, Middle, and High School students. Each activity was created by a scientist and includes background info, materials, easy-to-follow instructions, and extra resources to keep the discovery going.
