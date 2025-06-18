@@ -31,7 +31,7 @@ Drilling Demo
 ======
 In this activity, students had the unique opportunity to use a paleomagnetic drill to collect rock cores from limestone. Guided by experienced paleomagnetists, they learned about the process of collecting samples in the field and were educated on the importance of safety and proper Personal Protective Equipment (PPE), including hard hats, safety glasses, and hearing protection, to ensure a safe and effective learning experience.
 
-<img src='/images/cydi-rockdrilling.jpg' width='500'>
+<img src='/images/cydi-rockdrilling.jpg' width='600'>
 
 Trashcan Volcano
 ======
@@ -39,9 +39,9 @@ In this demonstration, students witnessed a “trashcan volcano” eruption -- a
 
 <html>
 <body>
-<div style="width: 360px;">
+<div style="width: 600px;">
   <iframe
-          src="/images/cydi-trashcanvolcano2.TS.mp4"  
+          src="/images/cydi-trashcanvolcano.mp4"  
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
