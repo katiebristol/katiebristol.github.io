@@ -4,6 +4,7 @@ excerpt: "Each summer, nearly 1,000 students from around the world in grades 6-1
 collection: portfolio
 ---
 <img src='/images/mtu.png' width='100'>     <img src='/images/syp.png' width='100'>
+<br>
 [Summer Youth Programs](https://www.mtu.edu/syp/) at Michigan Technological University are like a "Science Summer Camp" where students live on campus and explore different engineering and STEM disciplines.
 
 

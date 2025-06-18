@@ -22,7 +22,7 @@ In this hands-on activity, students explored the science of impact cratering and
 
 <html>
 <body>
-<video width="500" controls>
+<video width="400" controls>
   <source src="/images/pio-cratering.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

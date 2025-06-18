@@ -1,6 +1,6 @@
 ---
 title: "Scientist in Every Florida School (2022-2024)"
-excerpt: "The Scientist in Every Florida School (SEFS) program matches scientists with K-12 public schools in Florida.<br/><img src='/images/girlsdoscience-1.jpg' width='700'>"
+excerpt: "The Scientist in Every Florida School (SEFS) program matches scientists with K-12 public schools in Florida.<br/><img src='/images/SEFS2.png' width='700'>"
 collection: portfolio
 ---
 <img src='/images/TESI.png' width='200'><img src='/images/FLmuseum.png' width='200'><img src='/images/UF.png' width='200'>
