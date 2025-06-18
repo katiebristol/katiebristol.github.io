@@ -14,7 +14,7 @@ Magnetic Dipoles
 ======
 In this activity, students made both 2D and 3D representations of a planetary dipole.
 
-![Iron filings in glycerin](images/pio-dipole.jpg)
+![Iron filings in glycerin](/images/pio-dipole.jpg)
 
 
 Impact Cratering
