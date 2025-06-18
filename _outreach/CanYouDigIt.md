@@ -39,7 +39,7 @@ In this demonstration, students witnessed a “trashcan volcano” eruption -- a
 
 <html>
 <body>
-<div style="width: 600px;">
+<div style="width: 800;">
   <iframe
           src="/images/cydi-trashcanvolcano.mp4"  
           frameborder="0" 
@@ -47,5 +47,6 @@ In this demonstration, students witnessed a “trashcan volcano” eruption -- a
           allowfullscreen>
   </iframe>
 </div>
+<figcaption>The trashcan volcano in action!</figcaption>
 </body>
 </html>
