@@ -19,19 +19,19 @@ Rock or Choc?
 ======
 In this interactive activity, kids tested a variety of samples using a small magnetic susceptibility meter to determine whether they were rocks or chocolate. This hands-on experiment introduced the concept of magnetic properties while challenging participants to guess the material, combining science with a sweet twist.
 
-<img src='/images/cydi-rockchoc.jpg' width='300'>
+<img src='/images/cydi-rockchoc.jpg' width='500'>
 
 Magnetism vs. Gravity
 ======
 In this hands-on activity, kids explored the forces of magnetism and gravity by observing paperclips "levitating" beneath hanging magnets. With the paperclips tethered to the table, participants saw how magnetic force can counteract gravity—sparking fun conversations about invisible forces and how they shape our world.
 
-<img src='/images/cydi-magvsgrav.jpg' width='300'>
+<img src='/images/cydi-magvsgrav.jpg' width='500'>
 
 Drilling Demo
 ======
 In this activity, students had the unique opportunity to use a paleomagnetic drill to collect rock cores from limestone. Guided by experienced paleomagnetists, they learned about the process of collecting samples in the field and were educated on the importance of safety and proper Personal Protective Equipment (PPE), including hard hats, safety glasses, and hearing protection, to ensure a safe and effective learning experience.
 
-<img src='/images/cydi-rockdrilling.jpg' width='300'>
+<img src='/images/cydi-rockdrilling.jpg' width='500'>
 
 Trashcan Volcano
 ======
@@ -41,7 +41,7 @@ In this demonstration, students witnessed a “trashcan volcano” eruption -- a
 <body>
 <div style="width: 360px;">
   <iframe
-          src="/images/cydi-trashcanvolcano.mp4"  
+          src="/images/cydi-trashcanvolcano2.TS.mp4"  
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
