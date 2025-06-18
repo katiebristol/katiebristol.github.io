@@ -1,10 +1,10 @@
 ---
 title: "Purdue Physics Inside Out (PIO)"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/pio
+collection: outreach
+type: "K-12 Outreach"
+permalink: /outreach/pio
 venue: "Purdue Univeristy, Department of Physics and Astronomy"
-date: 2025-06-13
+date: 2025
 location: "West Lafayette, IN"
 ---
 
