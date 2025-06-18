@@ -19,3 +19,17 @@ In this activity, students explored planetary magnetic fields by modeling a magn
 Impact Cratering
 ======
 In this hands-on activity, students explored the science of impact cratering and how planetary scientists use craters to study a planet’s surface, history, and composition. They constructed crater boxes using layers of flour, powdered detergent, and creative “regolith” materials like cocoa powder, sprinkles, and crushed graham crackers to simulate planetary surfaces. By dropping rocks into their boxes, students created impact craters and observed the patterns of ejecta and layering. Using UV flashlights, they illuminated their craters to reveal glowing detergent beneath the surface—demonstrating how tools like spectroscopy can detect features invisible to the naked eye. This mirrored real planetary science techniques, such as how the Lunar Reconnaissance Orbiter used ultraviolet imaging to detect water ice in shadowed lunar craters.
+
+<html>
+<body>
+<div style="width: 800;">
+  <iframe
+          src="/images/pio-cratering.mp4"  
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
+<figcaption>Slow-motion video of some cratering!</figcaption>
+</body>
+</html>
