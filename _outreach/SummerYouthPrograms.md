@@ -3,7 +3,9 @@ title: "Summer Youth Programs (2015-2019)"
 excerpt: "Each summer, nearly 1,000 students from around the world in grades 6-11 come to Michigan Technological University for week-long explorations of college and career opportunities.<br/><img src='/images/syp-trashcanvolcano.jpg' width='700'>"
 collection: portfolio
 ---
-<img src='/images/mtu.png' width='100'><img src='/images/syp.png' width='100'>
+<img src='/images/mtu.png' width='100'>     <img src='/images/syp.png' width='100'>
+[Summer Youth Programs](https://www.mtu.edu/syp/) at Michigan Technological University are like a "Science Summer Camp" where students live on campus and explore different engineering and STEM disciplines.
+
 
 Geo-Mapping the Keweenaw (Grades 6-8)
 ======

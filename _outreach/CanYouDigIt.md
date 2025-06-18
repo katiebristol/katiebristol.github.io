@@ -5,7 +5,7 @@ collection: portfolio
 ---
 <img src='/images/FLmuseum.png' width='200'><img src='/images/chemours.png' width='200'><img src='/images/UFgeo.png' width='200'>
 
-In this family-friendly event, participants got to dig into the wonders of geology and discover the Earth beneath their feet through hands-on activities offered both inside and outside the Museum. Visitors can watch exciting demonstrations of volcanic eruptions and explore exhibits featuring fossils, gems, minerals, and rocks from Florida and around the world. 
+[Can You Dig It?](https://www.floridamuseum.ufl.edu/event/can-you-dig-it/) is a family-friendly event where participants get to dig into the wonders of geology and discover the Earth beneath their feet through hands-on activities offered both inside and outside the Museum. Visitors can watch exciting demonstrations of volcanic eruptions and explore exhibits featuring fossils, gems, minerals, and rocks from Florida and around the world. 
 
 During the years I participated, this event garnered the attendance of 1500-2000 children and community members annually.
 
