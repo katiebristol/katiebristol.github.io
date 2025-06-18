@@ -3,7 +3,7 @@ title: "Summer Youth Programs (2015-2019)"
 excerpt: "Each summer, nearly 1,000 students from around the world in grades 6-11 come to Michigan Technological University for week-long explorations of college and career opportunities.<br/><img src='/images/syp-landslide.jpg' width='500'>"
 collection: portfolio
 ---
-<img src='/images/mtu.png' width='200'><img src='/images/syp.png' width='200'>
+<img src='/images/mtu.png' width='100'><img src='/images/syp.png' width='100'>
 
 Geo-Mapping the Keweenaw (Grades 6-8)
 ======
@@ -16,5 +16,7 @@ Women in Engineering (WIE) and Engineering Scholars Programs (Grades 9-11)
 ======
 The Women in Engineering and Engineering Scholars Programs provide students with the opportunity to explore nine engineering disciplines through dynamic, hands-on projects and investigations. Participants also gain valuable insights into the college application process and strategies for succeeding in university-level engineering programs.
 
-During my time working with these programs, I led geological engineering activities for more than 400 students.
+As part of this program, I led a geological engineering activity in which students designed and tested box models of a town built on a hillside to simulate landslides. After observing the effects of slope failure, they rebuilt their models using creative “engineering solutions” such as coffee filters (representing geotextiles), straws (floodwater drainage pipes), and toothpicks (vegetation) to explore real-world strategies for natural hazard mitigation.
+
+During my time working with these programs, I worked with more than 400 students.
 <br><img src='/images/syp-landslide.jpg' width='500'>
