@@ -22,7 +22,7 @@ In this hands-on activity, students explored the science of impact cratering and
 
 <html>
 <body>
-<div style="width: 800;">
+<div style="width: 1600;">
   <iframe
           src="/images/pio-cratering.mp4"  
           frameborder="0" 

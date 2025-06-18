@@ -39,7 +39,7 @@ In this demonstration, students witnessed a “trashcan volcano” eruption -- a
 
 <html>
 <body>
-<div style="width: 800;">
+<div style="width: 1600;">
   <iframe
           src="/images/cydi-trashcanvolcano.mp4"  
           frameborder="0" 
