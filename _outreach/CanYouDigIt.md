@@ -4,7 +4,7 @@ collection: outreach
 type: "K-12 Outreach"
 permalink: /outreach/cydi
 venue: "University of Florida and the Florida Museum of Natural History"
-date: 2022
+date: 2022-04-06
 location: "Gainesville, FL"
 ---
 

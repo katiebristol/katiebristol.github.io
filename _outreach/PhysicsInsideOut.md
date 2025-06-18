@@ -4,7 +4,7 @@ collection: outreach
 type: "K-12 Outreach"
 permalink: /outreach/pio
 venue: "Purdue Univeristy, Department of Physics and Astronomy"
-date: 2025
+date: 2025-06-13
 location: "West Lafayette, IN"
 ---
 
@@ -17,6 +17,9 @@ We designed some planetary science activities:
 Magnetic Dipoles
 ======
 In this activity, students made both 2D and 3D representations of a planetary dipole.
+
+![Iron filings in glycerin](images/pio-dipole.jpg)
+
 
 Impact Cratering
 ======

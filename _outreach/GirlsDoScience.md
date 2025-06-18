@@ -4,7 +4,7 @@ collection: outreach
 type: "K-12 Outreach"
 permalink: /outreach/girls-do-science
 venue: "Florida Museum of Natural History"
-date: 2023
+date: 2023-02-11
 location: "Gainesville, FL"
 ---
 
