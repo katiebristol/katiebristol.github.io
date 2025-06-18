@@ -1,5 +1,5 @@
 ---
-title: "Girls Do Science (Florida Museum of Natural History)"
+title: "Girls Do Science (2023-2024)"
 excerpt: "To celebrate International Women and Girls in Science Day this free, family-friendly program features hands-on activities, engaging experiments, and opportunities to connect with scientists from a variety of fields.<br/><img src='/images/girlsdoscience-1.jpg' width='500'>"
 collection: portfolio
 ---
@@ -16,10 +16,6 @@ Rocks and Minerals
 Kids explored a hands-on collection of colorful minerals, unique rocks, and real fossils while chatting with geoscientists about how Earth’s features form and change over time. From sparkling crystals to ancient shells, there was something for every budding geologist to discover.
 
 <img src='/images/girlsdoscience-2.jpg' width='300'>
-
-Rock or Choc?
-======
-In this interactive activity, kids tested a variety of samples using a small magnetic susceptibility meter to determine whether they were rocks or chocolate. This hands-on experiment introduced the concept of magnetic properties while challenging participants to guess the material, combining science with a sweet twist.
 
 Picture Yourself as a Scientist
 ======
