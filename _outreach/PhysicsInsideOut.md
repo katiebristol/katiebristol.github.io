@@ -1,6 +1,6 @@
 ---
 title: "Physics Inside Out (2025)"
-excerpt: "Physics Inside Out is a program on Purdue’s West Lafayette campus, offered each summer to students in current grades 7 and 8.<br/><img src='/images/pio-class.jpg' width='700'>"
+excerpt: "Physics Inside Out is a program on Purdue’s West Lafayette campus, offered each summer to students in current grades 7 and 8.<br/><img src='/images/outreach/pio-class.jpg' width='700'>"
 collection: portfolio
 ---
 
@@ -13,7 +13,7 @@ We designed some planetary science activities:
 Magnetic Dipoles
 ======
 In this activity, students explored planetary magnetic fields by modeling a magnetic dipole in both 2D and 3D. Using a bar magnet and a small compass, they traced magnetic field lines on paper to create a 2D map of the field. To visualize the field in three dimensions, students built “magnetic dipole jars” by suspending iron filings in glycerin and dropping a magnet through the center—revealing the full structure of a dipole field as it would appear around a planet.
-<br><img src='/images/pio-dipole.jpg' width='400'>
+<br><img src='/images/outreach/pio-dipole.jpg' width='400'>
 
 
 Impact Cratering
@@ -23,7 +23,7 @@ In this hands-on activity, students explored the science of impact cratering and
 <html>
 <body>
 <video width="400" controls>
-  <source src="/images/pio-cratering.mp4" type="video/mp4">
+  <source src="/images/outreach/pio-cratering.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption>Slow-motion video of some cratering!</figcaption>

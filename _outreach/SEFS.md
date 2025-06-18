@@ -1,9 +1,9 @@
 ---
 title: "Scientist in Every Florida School (2022-2024)"
-excerpt: "The Scientist in Every Florida School (SEFS) program matches scientists with K-12 public schools in Florida.<br/><img src='/images/SEFS2.png' width='700'>"
+excerpt: "The Scientist in Every Florida School (SEFS) program matches scientists with K-12 public schools in Florida.<br/><img src='/images/outreach/SEFS2.png' width='700'>"
 collection: portfolio
 ---
-<img src='/images/TESI.png' width='200'><img src='/images/FLmuseum.png' width='200'><img src='/images/UF.png' width='200'>
+<img src='/images/outreach/TESI.png' width='200'><img src='/images/outreach/FLmuseum.png' width='200'><img src='/images/outreach/UF.png' width='200'>
 
 The [Scientist in Every Florida School](https://www.floridamuseum.ufl.edu/earth-systems/scientist-in-every-florida-school/about-sefs/) program connects scientists with K–12 public schools across Florida -- particularly Title I schools -- by offering teachers valuable professional development, classroom resources, and ongoing support. Through a statewide professional learning community, SEFS fosters long-term, collaborative partnerships between educators and scientists. The mission of SEFS is to engage Florida K–12 students and teachers in cutting-edge research by providing science role models and meaningful experiences that inspire the next generation of planetary stewards.
 
