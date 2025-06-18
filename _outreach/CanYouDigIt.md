@@ -1,6 +1,6 @@
 ---
 title: "Can You Dig It? (2022-2024)"
-excerpt: "Can You Dig It is an annual family-friendly event where participants get to dig into the wonders of geology and discover the Earth.<br/><img src='/images/cydi-sandbox.jpg' width='500'>"
+excerpt: "Can You Dig It is an annual family-friendly event where participants get to dig into the wonders of geology and discover the Earth.<br/><img src='/images/cydi-sandbox.jpg' width='700'>"
 collection: portfolio
 ---
 <img src='/images/FLmuseum.png' width='200'><img src='/images/chemours.png' width='200'><img src='/images/UFgeo.png' width='200'>
@@ -23,7 +23,7 @@ In this interactive activity, kids tested a variety of samples using a small mag
 
 Magnetism vs. Gravity
 ======
-In this hands-on activity, kids explored the forces of magnetism and gravity by observing paperclips "levitating" beneath hanging magnets. With the paperclips tethered to the table, participants saw how magnetic force can counteract gravity—sparking fun conversations about invisible forces and how they shape our world.
+In this hands-on activity, kids explored the forces of magnetism and gravity by observing paperclips "levitating" beneath hanging magnets. With the paperclips tethered to the table, participants saw how magnetic force can counteract gravity, sparking fun conversations about invisible forces and how they shape our world.
 
 <img src='/images/cydi-magvsgrav.jpg' width='500'>
 

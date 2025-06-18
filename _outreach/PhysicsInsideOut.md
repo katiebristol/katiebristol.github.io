@@ -1,6 +1,6 @@
 ---
 title: "Physics Inside Out (2025)"
-excerpt: "Physics Inside Out is a program on Purdue’s West Lafayette campus, offered each summer to students in current grades 7 and 8.<br/><img src='/images/pio-class.jpg' width='500'>"
+excerpt: "Physics Inside Out is a program on Purdue’s West Lafayette campus, offered each summer to students in current grades 7 and 8.<br/><img src='/images/pio-class.jpg' width='700'>"
 collection: portfolio
 ---
 
