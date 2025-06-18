@@ -1,11 +1,7 @@
 ---
-title: "Girls Do Science"
-collection: outreach
-type: "K-12 Outreach"
-permalink: /outreach/girls-do-science
-venue: "Florida Museum of Natural History"
-date: 2023-02-11
-location: "Gainesville, FL"
+title: "Girls Do Science (Florida Museum of Natural History)"
+excerpt: "To celebrate International Women and Girls in Science Day this free, family-friendly program features hands-on activities, engaging experiments, and opportunities to connect with scientists from a variety of fields.<br/><img src='/images/girlsdoscience-1.jpg' width='500'>"
+collection: portfolio
 ---
 
 To celebrate International Women and Girls in Science Day this free, family-friendly program features hands-on activities, engaging experiments, and opportunities to connect with scientists from a variety of fields. 
