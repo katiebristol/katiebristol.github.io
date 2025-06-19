@@ -261,6 +261,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      hide_dates: true
   # _publications
   - scope:
       path: ""
