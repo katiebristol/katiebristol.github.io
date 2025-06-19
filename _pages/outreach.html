@@ -9,5 +9,5 @@ author_profile: true
 
 {% assign sorted_posts = site.outreach | sort: "date" | reverse %}
 {% for post in sorted_posts %}
-  {% include archive-single.html hide_dates=true %}
+  {% include archive-single.html post=post hide_dates=true %}
 {% endfor %}
