@@ -2,7 +2,7 @@
 title: "Girls Do Science (2023-2024)"
 excerpt: "To celebrate International Women and Girls in Science Day this free, family-friendly program features hands-on activities, engaging experiments, and opportunities to connect with scientists from a variety of fields.<br/><img src='/images/outreach/girlsdoscience-1.jpg' width='700'>"
 collection: portfolio
-date: 2024
+date: 2024-02-11
 ---
 <img src='/images/outreach/FLmuseum.png' width='200'><img src='/images/outreach/awg.png' width='200'>
 
