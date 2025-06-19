@@ -4,6 +4,7 @@ excerpt: "Physics Inside Out is a program on Purdue’s West Lafayette campus, o
 collection: portfolio
 date: 2025
 ---
+<img src='/images/outreach/purdue.png' width='200'>
 
 [Physics Inside Out](https://www.physics.purdue.edu/outreach/inside-out.html) is a program on Purdue’s West Lafayette campus, offered each summer to students in current grades 7 and 8.
 
