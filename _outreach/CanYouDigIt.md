@@ -3,6 +3,7 @@ title: "Can You Dig It? (2022-2024)"
 excerpt: "Can You Dig It is an annual family-friendly event where participants get to dig into the wonders of geology and discover the Earth.<br/><img src='/images/outreach/cydi-sandbox.jpg' width='700'>"
 collection: portfolio
 date: 2024-04-01
+hide_date: True
 ---
 <img src='/images/outreach/FLmuseum.png' width='200'><img src='/images/outreach/chemours.png' width='200'><img src='/images/outreach/UFgeo.png' width='200'>
 

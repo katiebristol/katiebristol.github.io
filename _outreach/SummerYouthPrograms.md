@@ -3,6 +3,7 @@ title: "Summer Youth Programs (2015-2019)"
 excerpt: "Each summer, nearly 1,000 students from around the world in grades 6-11 come to Michigan Technological University for week-long explorations of college and career opportunities.<br/><img src='/images/outreach/syp-trashcanvolcano.jpg' width='700'>"
 collection: portfolio
 date: 2019-06-01
+hide_date: True
 ---
 
 <img src='/images/outreach/mtu.png' width='100'>     <img src='/images/outreach/syp.png' width='100'>
