@@ -12,6 +12,10 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% unless page.hide_dates %}
+  <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+{% endunless %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
