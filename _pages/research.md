@@ -3,10 +3,6 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
----
-
-My research uses magnetic records to reconstruct the origins, evolution, and habitability of planetary systems. By studying paleomagnetic and rock magnetic data from extraterrestrial materials, Precambrian rocks, and modern geological formations, I investigate how magnetic fields shape planetary bodies from the early solar system to the present day. This research enhances our understanding of planetary formation, Earth’s magnetic evolution, and the conditions that support habitable environments across time and space.
-
 
 feature_row1:
   - image_path: dynamo.jpg
@@ -26,6 +22,10 @@ feature_row3:
     alt: "Measuring thermomagnetic susecptibility"
     title: "Multi-Scale Magnetic Approaches to Geologic Questions"
     excerpt: "Beyond the early solar system and Precambrian, I use rock magnetic and paleomagnetic tools to tackle a wide range of geoscientific problems. I apply these methods to characterize mineralogy and alteration histories, date geologic events, reconstruct past environmental conditions, and provide constraints on the rates of volcanic, sedimentary, and tectonic processes."
+
+---
+
+My research uses magnetic records to reconstruct the origins, evolution, and habitability of planetary systems. By studying paleomagnetic and rock magnetic data from extraterrestrial materials, Precambrian rocks, and modern geological formations, I investigate how magnetic fields shape planetary bodies from the early solar system to the present day. This research enhances our understanding of planetary formation, Earth’s magnetic evolution, and the conditions that support habitable environments across time and space.
 
 {% include base_path %}
 
