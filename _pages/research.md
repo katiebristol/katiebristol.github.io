@@ -30,8 +30,5 @@ My research uses magnetic records to reconstruct the origins, evolution, and hab
 {% include base_path %}
 
 {% include feature_row id="feature_row1" type="left" %}
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
-
-I wrote my <a href="https://digitalcommons.mtu.edu/etdr/1049/">MS Thesis</a>
-on the rock magnetic properties of the Daule L5 ordinary chondrite meteorite.
