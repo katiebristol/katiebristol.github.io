@@ -5,15 +5,15 @@ permalink: /research/
 author_profile: true
 
 feature_row1:
-  - image_path: dynamo.jpg
-    alt: "Geodynamo"
+  - image_path: QUE_side.png
+    alt: "QUE 97008"
     title: "Solar Nebula Magnetism and the Origins of Planetary Systems"
     excerpt: "I study magnetic records preserved in extraterrestrial materials, such as meteorites and asteroid samples to understand the magnetic environment of the early solar system. These samples offer a rare opportunity to investigate the role of magnetic fields in the evolution of the protoplanetary disk, planetesimal formation, and early planetary dynamics. This research helps constrain theoretical models of solar system evolution and provides comparative insight into the formation of exoplanetary systems."
     url: 
 
 feature_row2:
-  - image_path: kappa.jpg
-    alt: "Measuring thermomagnetic susecptibility"
+  - image_path: dynamo.jpg
+    alt: "Geodynamo"
     title: "Foundations of Planetary Evolution and Habitability"
     excerpt: "The Precambrian, which makes up nearly 90% of Earth’s history, includes major events such as the initiation of plate tectonics, the formation of the inner core, and the rise of atmospheric oxygen and life. Despite its importance, paleointensity data from this era are extremely limited. I work to address this gap by recovering high-quality paleointensity records from Precambrian rocks, enabling us to probe the long-term evolution of Earth’s magnetic field and its implications for the thermal, geodynamic, and habitability history of the planet."
 
@@ -30,7 +30,7 @@ My research uses magnetic records to reconstruct the origins, evolution, and hab
 {% include base_path %}
 
 {% include feature_row id="feature_row1" type="left" %}
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
 {% include feature_row id="feature_row3" type="left" %}
 
 I wrote my <a href="https://digitalcommons.mtu.edu/etdr/1049/">MS Thesis</a>
