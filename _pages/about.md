@@ -13,7 +13,7 @@ About Me
 ======
 I am a "paleomagician" interested in the formation and evolution of planetary magnetic fields and how it can inform us on the history of Earth and other planets. Additionally, I want to better understand the materials that carry these records through deep time. My work aims to span both terrestrial and extraterrestrial mineral assemblages, nanoscale to planetary scale dynamics, and incorporates magnetic and non-magnetic methods.
 
-I am currently a Postdoctoral Research Scientist at Purdue University where I am studying the magnetic records preserved in meteorites in order to understand the formation and evolution of Young Stellar Objects and protoplanetary disks. 
+I am currently a Research Scientist at the Institute for Rock Magnetism (University of Minnesota) where I am studying the magnetic records preserved in meteorites in order to understand the formation and evolution of Young Stellar Objects and protoplanetary disks. 
 
 Hobbies
 ======

@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Katie E. Bristol, PhD"
 title_separator          : "-"
 name                     : &name "Katie E. Bristol"
-description              : &description "NSF Postdoc Fellow, Purdue University"
+description              : &description "Research Scientist, Institute for Rock Magnetism"
 url                      : https://katiebristol.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katiebristol/katiebristol.github.io"
@@ -25,22 +25,22 @@ author:
   avatar           : "profile.jpg"
   name             : "Dr. Katie E. Bristol"
   pronouns         : # example: "she/her"  
-  bio              : "NSF Astronomy & Astrophysics Postdoc Fellow"
-  location         : "West Lafayette, IN"
-  employer         : "Purdue University"
+  bio              : "Research Scientist"
+  location         : "Minneapolis, MN"
+  employer         : "University of Minnesota"
   uri              : # URL
-  email            : "kebristo@purdue.edu" 
+  email            : "brist096@umn.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : # 
+  arxiv            : # 
   googlescholar    : "https://scholar.google.com/citations?user=Y6_xRjkAAAAJ&hl=en"
-  impactstory      : # URL
+  impactstory      : # 
   orcid            : "https://orcid.org/0000-0002-3040-5653"
-  semantic         : # URL
+  semantic         : # 
   pubmed           : #
   researchgate     : "https://www.researchgate.net/profile/Katie-Bristol-3"
-  scopus           : # URL
+  scopus           : # 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -71,7 +71,7 @@ author:
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "kebristo"
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
