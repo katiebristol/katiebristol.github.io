@@ -1,0 +1,91 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Katie E. Bristol
+    - name: Date of Birth
+      value: 26th January, 1996
+    - name: Languages
+      value: English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Geology
+      institution: University of Florida (Gainesville, FL)
+      year: 2024
+      description:
+        - Advised by Dr. Courtney Sprain
+        - "Dissertation titled 'Earth's Evolution from Core to Atmosphere: Paleomagnetic and Geochronologic Insights from the Indian Subcontinent'"
+    - title: MS Geophysics
+      institution: Michigan Technological University (Houghton, MI)
+      year: 2020
+      description:
+        - Advised by Dr. Aleksey Smirnov
+        - "Thesis titled 'Rock Magnetic Properties of the L5 Ordinary Chondrite Daule'"
+    - title: BS Applied Geophysics, minor in Geological Engineering
+      institution: Michigan Technological University (Houghton, MI)
+      year: 2018
+      description:
+        - Field courses taken at University of Canterbury (Christchurch, New Zealand)
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Scientist
+      institution: Institute for Rock Magnetism, University of Minnesota
+      year: 2026 - current
+      description:
+        - 
+        - 
+    - title: NSF Astronomy & Astrophysics Postdoctoral Fellow
+      institution: Purdue University
+      year: 2025 - 2026
+      description:
+        - 
+        - 
+
+    - title: Research Assistant
+      institution: University of Florida
+      year: 2020 - 2024
+
+    - title: Research Assistant
+      institution: Michigan Technological University
+      year: 2015 - 2020
+      description:
+
+### TODO: Finish this when you aren't lazy 
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items:
+#        - Nobel Prize in Physics
+#        - Matteucci Medal
+#    - year: 2029
+#      items:
+#        - Max Planck Medal
+
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
