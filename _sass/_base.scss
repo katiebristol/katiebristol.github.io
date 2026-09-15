@@ -19,6 +19,11 @@ strong {
   color: var(--global-text-color);
 }
 
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -299,10 +304,14 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
+    text-transform: uppercase; 
+    letter-spacing: 0.08em;
   }
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    text-transform: uppercase; 
+    letter-spacing: 0.08em;
 
     &:hover {
       color: var(--global-hover-color);
@@ -778,6 +787,8 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        text-transform: uppercase; 
+        letter-spacing: 0.08em;
       }
 
       .author {
