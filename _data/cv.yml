@@ -20,9 +20,15 @@
     - title: M.S., Geophysics
       institution: Michigan Technological University
       year: "2020"
+      description:
+      - "Advisor: Dr. Aleksey Smirnov"
+      - "Thesis titled 'Rock Magnetic Properties of the L5 Ordinary Chondrite Daule'"
     - title: B.S., Applied Geophysics w/ minor in Geological Engineering
       institution: Michigan Technological University
       year: "2018"
+      description:
+      - "Field courses completed at University of Canterbury, New Zealand"
+
 
 - title: Publications
   type: list
