@@ -5,7 +5,6 @@ description: Fieldwork in the Deccan Traps (May 2022).
 img: assets/img/india/india009.jpg
 importance: 1
 category: work
-related_publications: true
 ---
 
 <div class="gallery">
