@@ -24,14 +24,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for gallery in sorted_gallery %}
-      {% include projects_horizontal.liquid %}
+      {% include gallery_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for gallery in sorted_gallery %}
-      {% include projects.liquid %}
+      {% include gallery.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -49,15 +49,15 @@ horizontal: false
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_gallery %}
-      {% include projects_horizontal.liquid %}
+    {% for gallery in sorted_gallery %}
+      {% include gallery_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_gallery %}
-      {% include projects.liquid %}
+    {% for gallery in sorted_gallery %}
+      {% include gallery.liquid %}
     {% endfor %}
   </div>
   {% endif %}
