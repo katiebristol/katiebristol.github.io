@@ -8,7 +8,7 @@ category: work
 ---
 
 <div class="gallery">
-  {% for image in site.data.test %}
+  {% for image in site.data.newzealand %}
     <div class="gallery-item">
       <a href="{{ '/assets/img/newzealand/' | append: image.url | relative_url }}" 
          class="gallery-item glightbox" 

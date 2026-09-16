@@ -1,62 +1,111 @@
 ---
 layout: page
-title: Montana, USA
+title: Montana
 description: Fieldwork in Hell Creek and the Powder River Basin in Summer 2021.
 img: assets/img/montana/montana008.jpg
 importance: 2
 category: work
-giscus_comments: false
 ---
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/montana/montana001.jpg" title="Roadside views" class="img-fluid rounded z-depth-1" %}
+
+<div class="gallery">
+  {% for image in site.data.montana %}
+    <div class="gallery-item">
+      <a href="{{ '/assets/img/montana/' | append: image.url | relative_url }}" 
+         class="gallery-item glightbox" 
+         data-title="{{ image.title }}" 
+         data-description="{{ image.caption }}">
+        <img src="{{ '/assets/img/montana/' | append: image.url | relative_url }}" alt="{{ image.title }}">
+      </a>
     </div>
+  {% endfor %}
 </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/montana/montana002.jpg" title="Crossing the Missouri River" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/montana/montana003.jpg" title="Judith River" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const lightbox = GLightbox({
+      selector: '.glightbox',
+      skin: 'clean',
+      touchNavigation: true,
+      loop: true,
+      openEffect: 'zoom',
+      closeEffect: 'zoom',
+      slideEffect: 'slide',
+      descPosition: 'left',
+      zoomable: false,
+      autoplayVideos: false,
+      moreLength: 60,
+      moreText: 'See more'
+    });
+  });
+</script>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/montana/montana006.jpg" title="Butte" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<style>
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 0.5rem;
+  }
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/montana/montana004.jpg" title="The KPg boundary" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/montana/montana005.jpg" title="Courtney and Hee Jun" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/montana/montana007.jpg" title="Dinosaur Bones" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+  .gallery-item {
+    display: block;
+  }
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/montana/montana009.jpg" title="Notes" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+  .gallery-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    transition: transform 0.3s ease;
+  }
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/montana/montana008.jpg" title="Outcrop" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/montana/montana011.jpg" title="Clinker chimney" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+  .gallery-item:hover img {
+    transform: scale(1.03);
+  }
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/montana/montana010.jpg" title="Ashland Motel" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+  .glightbox-clean .gslide-description .gdesc-inner {
+    color: #3d3c42;
+  }
+
+  .glightbox-clean .gslide-title {
+    font-weight: bold;
+    color: #3d3c42;
+  }
+
+  @media (min-width: 768px) {
+    html[data-theme="dark"] .glightbox-clean .gslide-description .gdesc-inner {
+      color: #f1ddd8;
+      background: #26282e;
+    }
+    html[data-theme="dark"] .glightbox-clean .gslide-title {
+      color: #f1ddd8;
+      font-weight: bold;
+    }
+  }
+
+  .gdesc-inner {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .glightbox-container {
+    background: rgba(0, 0, 0, 0.8);
+  }
+
+  /* Title in the lightbox */
+  .glightbox-clean .gslide-title {
+    font-family: var(--bs-body-font-family, "Lato", system-ui, sans-serif);
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+
+  /* Description/caption in the lightbox */
+  .glightbox-clean .gslide-description .gdesc-inner {
+    font-family: var(--bs-body-font-family, "Lato", system-ui, sans-serif);
+    font-weight: 200;
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+</style>
