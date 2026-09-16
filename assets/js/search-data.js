@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-gallery",
+          title: "Gallery",
+          description: "Some photos of work and fun.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/gallery/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -30,7 +30,27 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
+        },{id: "gallery-india",
+          title: 'India',
+          description: "Fieldwork in the Deccan Traps (May 2022).",
+          section: "Gallery",handler: () => {
+              window.location.href = "/gallery/india/";
+            },},{id: "gallery-michigan",
+          title: 'Michigan',
+          description: "Some photos from my home state.",
+          section: "Gallery",handler: () => {
+              window.location.href = "/gallery/michigan/";
+            },},{id: "gallery-montana",
+          title: 'Montana',
+          description: "Fieldwork in Hell Creek and the Powder River Basin in Summer 2021.",
+          section: "Gallery",handler: () => {
+              window.location.href = "/gallery/montana/";
+            },},{id: "gallery-new-zealand",
+          title: 'New Zealand',
+          description: "Field camp through University of Canterbury in Summer 2017.",
+          section: "Gallery",handler: () => {
+              window.location.href = "/gallery/newzealand/";
+            },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
@@ -41,27 +61,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-india",
-          title: 'India',
-          description: "Fieldwork in the Deccan Traps (May 2022).",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/india/";
-            },},{id: "projects-michigan",
-          title: 'Michigan',
-          description: "Some photos from my home state.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/michigan/";
-            },},{id: "projects-montana",
-          title: 'Montana',
-          description: "Fieldwork in Hell Creek and the Powder River Basin in Summer 2021.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/montana/";
-            },},{id: "projects-new-zealand",
-          title: 'New Zealand',
-          description: "Field camp through University of Canterbury in Summer 2017.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/newzealand/";
-            },},{id: "teachings-data-science-fundamentals",
+          section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
