@@ -2,7 +2,8 @@
   type: time_table
   contents:
     - title: Research Scientist
-      institution: Institute for Rock Magnetism, University of Minnesota, Twin Cities
+      institution: Institute for Rock Magnetism, University of Minnesota Twin Cities
+      location: Minneapolis, MN (USA)
       year: 2026 - present
     - title: NSF Astronomy & Astrophysics Postdoctoral Fellow
       institution: Purdue University
@@ -13,18 +14,21 @@
   contents:
     - title: Ph.D., Geology
       institution: University of Florida
+      location: Gainesville, FL (USA)
       year: "2024"
       description:
       - "Advisor: Dr. Courtney Sprain"
       - "Dissertation titled 'Earth's Evolution from Core to Atmosphere: Paleomagnetic and Geochronologic Insights from the Indian Subcontinent'"
     - title: M.S., Geophysics
       institution: Michigan Technological University
+      location: Houghton, MI (USA)
       year: "2020"
       description:
       - "Advisor: Dr. Aleksey Smirnov"
       - "Thesis titled 'Rock Magnetic Properties of the L5 Ordinary Chondrite Daule'"
     - title: B.S., Applied Geophysics w/ minor in Geological Engineering
       institution: Michigan Technological University
+      location: Houghton, MI (USA)
       year: "2018"
       description:
       - "Field courses completed at University of Canterbury, New Zealand"
