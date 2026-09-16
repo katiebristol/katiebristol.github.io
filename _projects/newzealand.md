@@ -1,54 +1,111 @@
 ---
 layout: page
 title: New Zealand
-description: Field camp through University of Canterbury in Summer 2017. 
+description: Field camp through University of Canterbury in Summer 2017.
 img: assets/img/newzealand/nz005_crop.jpg
 importance: 3
 category: work
 ---
 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/newzealand/nz004.jpg" title="Kaikoura" class="img-fluid rounded z-depth-1" %}
+<div class="gallery">
+  {% for image in site.data.test %}
+    <div class="gallery-item">
+      <a href="{{ '/assets/img/newzealand/' | append: image.url | relative_url }}" 
+         class="gallery-item glightbox" 
+         data-title="{{ image.title }}" 
+         data-description="{{ image.caption }}">
+        <img src="{{ '/assets/img/newzealand/' | append: image.url | relative_url }}" alt="{{ image.title }}">
+      </a>
     </div>
+  {% endfor %}
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/newzealand/nz009.jpg" title="Sea platform" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const lightbox = GLightbox({
+      selector: '.glightbox',
+      skin: 'clean',
+      touchNavigation: true,
+      loop: true,
+      openEffect: 'zoom',
+      closeEffect: 'zoom',
+      slideEffect: 'slide',
+      descPosition: 'left',
+      zoomable: false,
+      autoplayVideos: false,
+      moreLength: 60,
+      moreText: 'See more'
+    });
+  });
+</script>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/newzealand/nz005.jpg" title="Mt Doom" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<style>
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 0.5rem;
+  }
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/newzealand/nz006.jpg" title="Cass Field Station" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/newzealand/nz008.jpg" title="Colorful schists on Ruby Island, Lake Wanaka" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+  .gallery-item {
+    display: block;
+  }
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/newzealand/nz010.jpg" title="Crater at White Island" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+  .gallery-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    transition: transform 0.3s ease;
+  }
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/newzealand/nz001.jpg" title="Flame structure" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/newzealand/nz002.jpg" title="Bioturbation at Kaikoura" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/newzealand/nz003.jpg" title="Sigma grain in the Paparoa Metamorphic Complex" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+  .gallery-item:hover img {
+    transform: scale(1.03);
+  }
+
+  .glightbox-clean .gslide-description .gdesc-inner {
+    color: #3d3c42;
+  }
+
+  .glightbox-clean .gslide-title {
+    font-weight: bold;
+    color: #3d3c42;
+  }
+
+  @media (min-width: 768px) {
+    html[data-theme="dark"] .glightbox-clean .gslide-description .gdesc-inner {
+      color: #f1ddd8;
+      background: #26282e;
+    }
+    html[data-theme="dark"] .glightbox-clean .gslide-title {
+      color: #f1ddd8;
+      font-weight: bold;
+    }
+  }
+
+  .gdesc-inner {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .glightbox-container {
+    background: rgba(0, 0, 0, 0.8);
+  }
+
+  /* Title in the lightbox */
+  .glightbox-clean .gslide-title {
+    font-family: var(--bs-body-font-family, "Lato", system-ui, sans-serif);
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+
+  /* Description/caption in the lightbox */
+  .glightbox-clean .gslide-description .gdesc-inner {
+    font-family: var(--bs-body-font-family, "Lato", system-ui, sans-serif);
+    font-weight: 200;
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+</style>
