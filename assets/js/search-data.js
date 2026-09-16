@@ -51,8 +51,8 @@ ninja.data = [{
           description: "Some photos from my home state.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/michigan/";
-            },},{id: "projects-montana-usa",
-          title: 'Montana, USA',
+            },},{id: "projects-montana",
+          title: 'Montana',
           description: "Fieldwork in Hell Creek and the Powder River Basin in Summer 2021.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/montana/";
@@ -61,11 +61,6 @@ ninja.data = [{
           description: "Field camp through University of Canterbury in Summer 2017.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/newzealand/";
-            },},{id: "projects-new-zealand",
-          title: 'New Zealand',
-          description: "Field camp through University of Canterbury in Summer 2017.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/test/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
