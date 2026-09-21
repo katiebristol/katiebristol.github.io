@@ -82,7 +82,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "teaching-outreach-can-you-dig-it",
           title: 'Can You Dig It?',
-          description: "Florida Museum of Natural History",
+          description: "CYDI is an annual family-friendly event where participants get to dig into the wonders of geology and discover the Earth.",
           section: "Teaching-outreach",handler: () => {
               window.location.href = "/teaching-outreach/CYDI/";
             },},{id: "teaching-outreach-girls-do-science",
