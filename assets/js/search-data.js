@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "nav-short-cv",
-          title: "Short CV",
-          description: "Appointments, education, and other things. Click the icon to the right for my full CV.",
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Abbreviated CV below. Click the icon to the right for my full CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -87,7 +87,7 @@ ninja.data = [{
               window.location.href = "/teaching-outreach/CYDI/";
             },},{id: "teaching-outreach-girls-do-science",
           title: 'Girls Do Science',
-          description: "Florida Museum of Natural History",
+          description: "To celebrate International Women and Girls in Science Day this free, family-friendly program features hands-on activities, engaging experiments, and opportunities to connect with scientists from a variety of fields.",
           section: "Teaching-outreach",handler: () => {
               window.location.href = "/teaching-outreach/GirlsDoScience/";
             },},{
