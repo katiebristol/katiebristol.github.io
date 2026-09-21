@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: other
+nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: teaching+outreach
+    permalink: /teaching-outreach/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: resources
+    permalink: /resources/
 ---
