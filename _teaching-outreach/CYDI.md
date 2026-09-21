@@ -32,27 +32,27 @@ In this activity, students created their own compasses by magnetizing paperclips
 ## Rock or Choc?
 In this interactive activity, kids tested a variety of samples using a small magnetic susceptibility meter to determine whether they were rocks or chocolate. This hands-on experiment introduced the concept of magnetic properties while challenging participants to guess the material, combining science with a sweet twist.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi-rockchoc.jpg" title="Rock or Choc" %}
+<div class="row justify-content-center">
+    <div class="col-md-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi-rockchoc.jpg" title="Rock or Choc" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 ## Magnetism vs. Gravity
 In this hands-on activity, kids explored the forces of magnetism and gravity by observing paperclips "levitating" beneath hanging magnets. With the paperclips tethered to the table, participants saw how magnetic force can counteract gravity, sparking fun conversations about invisible forces and how they shape our world.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi-magvsgrav.jpg" title="Mag vs. Grav" %}
+<div class="row justify-content-center">
+    <div class="col-md-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi-magvsgrav.jpg" title="Mag vs. Grav" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 ## Drilling Demo
 In this activity, students had the unique opportunity to use a paleomagnetic drill to collect rock cores from limestone. Guided by experienced paleomagnetists, they learned about the process of collecting samples in the field and were educated on the importance of safety and proper Personal Protective Equipment (PPE), including hard hats, safety glasses, and hearing protection, to ensure a safe and effective learning experience.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi-rockdrilling.jpg" title="Mag vs. Grav" %}
+<div class="row justify-content-center">
+    <div class="col-md-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi-rockdrilling.jpg" title="Mag vs. Grav" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -61,8 +61,8 @@ In this demonstration, students witnessed a “trashcan volcano” eruption -- a
 
 The trashcan volcano in action!
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid loading="eager" path="assets/img/teaching-outreach/cydi-trashcanvolcano.mp4" title="Trashcan Volcano" %}
+<div class="row justify-content-center">
+    <div class="col-md-7 mt-3 mt-md-0">
+        {% include video.liquid loading="eager" path="assets/img/teaching-outreach/cydi-trashcanvolcano.mp4" title="Trashcan Volcano" controls=true class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
