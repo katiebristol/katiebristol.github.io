@@ -23,14 +23,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-short-cv",
+          title: "Short CV",
           description: "Appointments, education, and other things. Click the icon to the right for my full CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "gallery-india",
+        },{id: "nav-teaching-outreach",
+          title: "Teaching+Outreach",
+          description: "Some courses and outreach initiatives that I&#39;ve been involved with.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching-outreach/";
+          },
+        },{id: "gallery-arizona",
+          title: 'Arizona',
+          description: "Exploring Arizona after the 2026 AAS Meeting in Phoenix.",
+          section: "Gallery",handler: () => {
+              window.location.href = "/gallery/arizona/";
+            },},{id: "gallery-india",
           title: 'India',
           description: "Fieldwork in the Deccan Traps (May 2022).",
           section: "Gallery",handler: () => {
@@ -61,16 +73,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+          section: "News",},{id: "teaching-outreach-can-you-dig-it",
+          title: 'Can You Dig It?',
+          description: "Florida Museum of Natural History",
+          section: "Teaching-outreach",handler: () => {
+              window.location.href = "/teaching-outreach/CYDI/";
+            },},{id: "teaching-outreach-girls-do-science",
+          title: 'Girls Do Science',
+          description: "Florida Museum of Natural History",
+          section: "Teaching-outreach",handler: () => {
+              window.location.href = "/teaching-outreach/GirlsDoScience/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
