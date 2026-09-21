@@ -10,28 +10,28 @@ horizontal: false
 ---
 
 <!-- pages/teaching-outreach.md -->
-<div class="gallery">
+<div class="teaching-outreach">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_TO = site.gallery | where: "category", category %}
-  {% assign sorted_TO = categorized_gallery | sort: "importance" %}
+  {% assign categorized_teaching-outreach = site.teaching-outreach | where: "category", category %}
+  {% assign sorted_teaching-outreach = categorized_teaching-outreach | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for TO in sorted_TO %}
-      {% include gallery_horizontal.liquid %}
+    {% for teaching-outreach in sorted_teaching-outreach %}
+      {% include teaching_outreach_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for TO in sorted_TO %}
-      {% include gallery.liquid %}
+    {% for teaching-outreach in sorted_teaching-outreach %}
+      {% include teaching_outreach.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_gallery = site.gallery | sort: "importance" %}
+{% assign sorted_teaching-outreach = site.teaching-outreach | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
@@ -49,15 +49,15 @@ horizontal: false
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for TO in sorted_TO %}
-      {% include gallery_horizontal.liquid %}
+    {% for TO in sorted_teaching-outreach %}
+      {% include teaching_outreach_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for TO in sorted_TO %}
-      {% include gallery.liquid %}
+    {% for teaching-outreach in sorted_teaching-outreach %}
+      {% include teaching_outreach.liquid %}
     {% endfor %}
   </div>
   {% endif %}
