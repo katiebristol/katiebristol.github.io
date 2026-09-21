@@ -3,7 +3,7 @@ layout: page
 title: Teaching+Outreach
 permalink: /teaching-outreach/
 description: Some courses and outreach initiatives that I've been involved with.
-nav: true
+nav: false
 nav_order: 6
 display_categories: [outreach, teaching] 
 horizontal: false
