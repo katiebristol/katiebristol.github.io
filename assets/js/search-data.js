@@ -37,7 +37,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching-outreach/";
           },
-        },{id: "gallery-arizona",
+        },{id: "dropdown-teaching-outreach",
+              title: "teaching+outreach",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/teaching-outreach/";
+              },
+            },{id: "dropdown-resources",
+              title: "resources",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/resources/";
+              },
+            },{id: "gallery-arizona",
           title: 'Arizona',
           description: "Exploring Arizona after the 2026 AAS Meeting in Phoenix.",
           section: "Gallery",handler: () => {
