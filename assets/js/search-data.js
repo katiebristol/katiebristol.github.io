@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching-outreach",
-          title: "Teaching+Outreach",
-          description: "Some courses and outreach initiatives that I&#39;ve been involved with.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching-outreach/";
-          },
         },{id: "dropdown-teaching-outreach",
               title: "teaching+outreach",
               description: "",
