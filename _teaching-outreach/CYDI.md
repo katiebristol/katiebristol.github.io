@@ -3,7 +3,7 @@ layout: page
 title: Can You Dig It?
 description: Florida Museum of Natural History
 img: assets/img/teaching-outreach/cydi/sandbox.jpg
-importance: 1
+importance: 2
 category: outreach
 ---
 
@@ -53,10 +53,8 @@ In this activity, students had the unique opportunity to use a paleomagnetic dri
 ## Trashcan Volcano
 In this demonstration, students witnessed a “trashcan volcano” eruption -- a classic experiment that simulates volcanic explosions using a plastic trashcan, liquid nitrogen, and water. As pressure rapidly built up and released in a dramatic burst, participants learned about the physics behind explosive volcanic eruptions and sparked curiosity about volcanic processes.
 
-The trashcan volcano in action!
-
 <div class="row justify-content-center">
     <div class="col-md-7 mt-3 mt-md-0">
-        {% include video.liquid loading="eager" path="assets/img/teaching-outreach/cydi/trashcanvolcano.mp4" title="Trashcan Volcano" controls=true class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid loading="eager" path="assets/img/teaching-outreach/cydi/trashcanvolcano.mp4" title="Trashcan Volcano" controls=true caption="The trashcan volcano in action!" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

@@ -3,7 +3,7 @@ layout: page
 title: Scientist in Every Florida School
 description: Thompson Earth Systems Institute
 img: assets/img/teaching-outreach/sefs/logo.png
-importance: 3
+importance: 4
 category: outreach
 ---
 
