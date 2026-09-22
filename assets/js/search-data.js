@@ -85,6 +85,26 @@ ninja.data = [{
           description: "Florida Museum of Natural History",
           section: "Teaching-outreach",handler: () => {
               window.location.href = "/teaching-outreach/CYDI/";
+            },},{id: "teaching-outreach-fundamentals-of-geophysics-ge-3040",
+          title: 'Fundamentals of Geophysics (GE 3040)',
+          description: "Michigan Technological University",
+          section: "Teaching-outreach",handler: () => {
+              window.location.href = "/teaching-outreach/GE3040/";
+            },},{id: "teaching-outreach-planetary-geology-amp-geophysics-ge-4530-5430",
+          title: 'Planetary Geology &amp;amp; Geophysics (GE 4530/5430)',
+          description: "Michigan Technological University",
+          section: "Teaching-outreach",handler: () => {
+              window.location.href = "/teaching-outreach/GE4530/";
+            },},{id: "teaching-outreach-geology-of-american-national-parks-gly-3163",
+          title: 'Geology of American National Parks (GLY 3163)',
+          description: "University of Florida",
+          section: "Teaching-outreach",handler: () => {
+              window.location.href = "/teaching-outreach/GLY3163/";
+            },},{id: "teaching-outreach-paleontology-gly-3603c",
+          title: 'Paleontology (GLY 3603C)',
+          description: "University of Florida",
+          section: "Teaching-outreach",handler: () => {
+              window.location.href = "/teaching-outreach/GLY3603C/";
             },},{id: "teaching-outreach-girls-do-science",
           title: 'Girls Do Science',
           description: "Florida Museum of Natural History",
