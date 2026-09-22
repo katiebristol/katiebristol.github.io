@@ -100,6 +100,11 @@ ninja.data = [{
           description: "Thompson Earth Systems Institute",
           section: "Teaching-outreach",handler: () => {
               window.location.href = "/teaching-outreach/SEFS/";
+            },},{id: "teaching-outreach-summer-youth-programs",
+          title: 'Summer Youth Programs',
+          description: "Michigan Technological University",
+          section: "Teaching-outreach",handler: () => {
+              window.location.href = "/teaching-outreach/SYP/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
