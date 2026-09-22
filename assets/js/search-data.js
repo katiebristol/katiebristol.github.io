@@ -120,6 +120,11 @@ ninja.data = [{
           description: "Thompson Earth Systems Institute",
           section: "Teaching-outreach",handler: () => {
               window.location.href = "/teaching-outreach/SEFS/";
+            },},{id: "teaching-outreach-summer-school-for-rock-magnetism",
+          title: 'Summer School for Rock Magnetism',
+          description: "Institute for Rock Magnetism, University of Minnesota",
+          section: "Teaching-outreach",handler: () => {
+              window.location.href = "/teaching-outreach/SSRM/";
             },},{id: "teaching-outreach-summer-youth-programs",
           title: 'Summer Youth Programs',
           description: "Michigan Technological University",
