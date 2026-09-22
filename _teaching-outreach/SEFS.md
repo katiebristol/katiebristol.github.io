@@ -12,7 +12,6 @@ category: outreach
         {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/sefs/logos.png" title="Logos" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<p>></p>
 
 The [Scientist in Every Florida School](https://www.floridamuseum.ufl.edu/earth-systems/scientist-in-every-florida-school/about-sefs/) program connects scientists with K–12 public schools across Florida -- particularly Title I schools -- by offering teachers valuable professional development, classroom resources, and ongoing support. Through a statewide professional learning community, SEFS fosters long-term, collaborative partnerships between educators and scientists. The mission of SEFS is to engage Florida K–12 students and teachers in cutting-edge research by providing science role models and meaningful experiences that inspire the next generation of planetary stewards.
 
@@ -23,11 +22,12 @@ If you are a scientist in Florida and want to participate, you can sign up [here
 
 
 <div class="row justify-content-center">
-    <div class="col-md-3 mt-3 mt-md-0">
+    <div class="col-md-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/sefs/img1.jpg" title="Butterflies" class="img-fluid rounded z-depth-1" %}
-    <div class="col-md-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/sefs/img2.jpg" title="Rocks" caption="Photos by Kristen Grace (Florida Museum)" class="img-fluid rounded z-depth-1" %}    
+    <div class="col-md-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/sefs/img2.jpg" title="Rocks"class="img-fluid rounded z-depth-1" %}    
     </div>
+    <p> Photos by Kristen Grace (Florida Museum)
 
 </div>
 

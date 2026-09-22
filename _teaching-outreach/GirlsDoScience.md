@@ -17,7 +17,7 @@ category: outreach
   <div class="float-right float-end ml-3 mb-3 ms-3" style="max-width: 300px;">
     {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/girlsdoscience/online.jpg" title="Activity Book" class="img-fluid rounded z-depth-1" %}
   </div>
-  <p>To celebrate International Women and Girls in Science Day, [Girls Do Science](https://www.floridamuseum.ufl.edu/event/women-girls-in-science-day/) is a free, family-friendly program features hands-on activities, engaging experiments, and opportunities to connect with scientists from a variety of fields.</p>
+  <p>To celebrate International Women and Girls in Science Day, <a href="https://www.floridamuseum.ufl.edu/event/women-girls-in-science-day/">Girls Do Science</a> is a free, family-friendly program features hands-on activities, engaging experiments, and opportunities to connect with scientists from a variety of fields.</p>
 
   <p>Explore science at home with the <a href="https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/36/2021/01/2020-NEA-BigRead-Girls-Do-Science-Activity-Book-lowres.pdf">Girls Do Science FREE activity book</a>, featuring fun, hands-on projects for all ages—plus dedicated sections for Elementary, Middle, and High School students. Each activity was created by a scientist and includes background info, materials, easy-to-follow instructions, and extra resources to keep the discovery going.</p>
 </div>
