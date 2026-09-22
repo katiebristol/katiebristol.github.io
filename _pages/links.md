@@ -12,7 +12,7 @@ nav: false
 
 ## [Goodreads](https://www.goodreads.com/user/show/165484722-kt-beedo)
 
-## [Ravlery] (https://www.ravelry.com/people/ktbeedo)
+## [Ravlery](https://www.ravelry.com/people/ktbeedo)
 
 ## [Strava](https://www.strava.com/athletes/1161996082)
 
