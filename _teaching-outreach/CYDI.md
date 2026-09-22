@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Can You Dig It?
-description: CYDI is an annual family-friendly event where participants get to dig into the wonders of geology and discover the Earth.
+description: Florida Museum of Natural History
 img: assets/img/teaching-outreach/cydi-sandbox.jpg
 importance: 1
 category: outreach
