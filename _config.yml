@@ -157,6 +157,8 @@ collections:
     output: true
   teaching-outreach:
     output: true
+  resources:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
