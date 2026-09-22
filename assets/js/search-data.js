@@ -90,6 +90,11 @@ ninja.data = [{
           description: "Florida Museum of Natural History",
           section: "Teaching-outreach",handler: () => {
               window.location.href = "/teaching-outreach/GirlsDoScience/";
+            },},{id: "teaching-outreach-physics-inside-out",
+          title: 'Physics Inside Out',
+          description: "Purdue University",
+          section: "Teaching-outreach",handler: () => {
+              window.location.href = "/teaching-outreach/PIO/";
             },},{id: "teaching-outreach-scientist-in-every-florida-school",
           title: 'Scientist in Every Florida School',
           description: "Thompson Earth Systems Institute",
