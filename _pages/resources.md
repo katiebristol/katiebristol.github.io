@@ -10,22 +10,41 @@ description: "Links to helpful texts, tools, and other resources."
 ### Scientific poster templates and resources:
 <ul>
     <li><a href="https://osf.io/6ua4k/">"Better Poster"</a> by Mike Morrison <a href="https://www.youtube.com/watch?v=SYk29tnxASs">(More info)</a>
-        <br/><img src='/assets/img/resources/betterposter.jpg' width=350px></li>
     <li><a href="https://derekcrowe.net/resources/butterposter">"Butter Poster"</a> by Derek Crowe
-        <br/><img src='/assets/img/resources/butterposter.jpeg' width=350px></li>
     <li><a href="https://thenounproject.com/">Free-to-use icons and graphics</a> from The Noun Project
-        <br/><img src='/assets/img/resources/nounproject.png' width=350px></li>
   </ul>
+
+<div class="row justify-content-sm-center align-items-stretch">
+    <div class="col-sm-3 mt-3 mt-md-0 d-flex">
+        {% include figure.liquid path="assets/img/resources/betterposter.jpg" title="Better Poster" class="img-fluid rounded z-depth-1 w-100 h-100 style-cover" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0 d-flex">
+        {% include figure.liquid path="assets/img/resources/butterposter.jpg" title="Butter Poster" class="img-fluid rounded z-depth-1 w-100 h-100 style-cover" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0 d-flex">
+        {% include figure.liquid path="assets/img/resources/nounproject.jpg" title="The Noun Project" class="img-fluid rounded z-depth-1 w-100 h-100 style-cover" %}
+    </div>
+</div>
+
 
 ### Resources to make your work more accessible:
 <ul>
     <li><a href="https://blogs.agu.org/sciencecommunication/2020/12/02/how-to-sketch-your-science/">AGU Workshop: How to Sketch Your Science</a>
-        <br/><img src='/images/resources/sketchyoursci.gif' width=350px></li>
     <li><a href="https://colororacle.org/">ColorOracle: Free Color Blindness Simulator</a><br>(Takes the guesswork out of designing for color blindness)</li>
-        <br/><img src='/images/resources/colororacle.png' width=350px></li>
     <li><a href="https://venngage.com/tools/accessible-color-palette-generator">Accessible Color Palette Generator</a> by Venngage
-        <br/><img src='/images/resources/colorpalette.png' width=350px></li>
   </ul>
+
+<div class="row justify-content-sm-center align-items-stretch">
+    <div class="col-sm-3 mt-3 mt-md-0 d-flex">
+        {% include figure.liquid path="assets/img/resources/sketchyoursci.gif" title="Sketch Your Science" class="img-fluid rounded z-depth-1 w-100 h-100 style-cover" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0 d-flex">
+        {% include figure.liquid path="assets/img/resources/colororacle.png" title="Color Oracle" class="img-fluid rounded z-depth-1 w-100 h-100 style-cover" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0 d-flex">
+        {% include figure.liquid path="assets/img/resources/colorpalette.png" title="Color Palette Generator" class="img-fluid rounded z-depth-1 w-100 h-100 style-cover" %}
+    </div>
+</div>
 
 # Learning Resources
 
@@ -46,7 +65,7 @@ description: "Links to helpful texts, tools, and other resources."
 
 ### Other things:
 <ul>
-    <li><a href="https://cse.umn.edu/irm/irm-quarterly">The IRM Quarterly</a></li>
+    <li><a href="https://conservancy.umn.edu/collections/097c132c-a217-4359-8d63-09e4559aa050/search">The IRM Quarterly</a></li>
     <li><a href="https://cse.umn.edu/irm/short-courses-and-lecture-notes">IRM Short Course Lecture Notes</a></li>
     <li><a href="https://nbviewer.org/github/ltauxe/Python-for-Earth-Science-Students/blob/master/_TableOfContents.ipynb">Python for Earth Science Students Course</a> by Lisa Tauxe</li>
   </ul>
