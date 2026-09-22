@@ -27,7 +27,7 @@ Kids explored a hands-on collection of colorful minerals, unique rocks, and real
 
 <div class="row justify-content-center">
     <div class="col-md-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/rocks_and_mins2.jpg" title="Rocks and Minerals" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/girlsdoscience/rocks_and_mins2.jpg" title="Rocks and Minerals" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

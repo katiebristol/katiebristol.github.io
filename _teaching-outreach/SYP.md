@@ -35,6 +35,6 @@ During my time working with these programs, I worked with more than 400 students
 
 <div class="row justify-content-center">
     <div class="col-md-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/syp/landsllide.jpg" title="Landslide Box Activity" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/syp/landslide.jpg" title="Landslide Box Activity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

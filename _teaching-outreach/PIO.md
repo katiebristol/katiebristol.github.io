@@ -12,7 +12,6 @@ category: outreach
         {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/pio/logos.png" title="Logos" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<p>></p>
 
 [Physics Inside Out](https://www.physics.purdue.edu/outreach/inside-out.html) is a program on Purdue’s West Lafayette campus, offered each summer to students in current grades 7 and 8.
 
@@ -27,19 +26,14 @@ In this activity, students explored planetary magnetic fields by modeling a magn
         {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/pio/dipole.jpg" title="Dipole Jar" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<p>></p>
 
 ## Impact Cratering
 In this hands-on activity, students explored the science of impact cratering and how planetary scientists use craters to study a planet’s surface, history, and composition. They constructed crater boxes using layers of flour, powdered detergent, and creative “regolith” materials like cocoa powder, sprinkles, and crushed graham crackers to simulate planetary surfaces. By dropping rocks into their boxes, students created impact craters and observed the patterns of ejecta and layering. Using UV flashlights, they illuminated their craters to reveal glowing detergent beneath the surface—demonstrating how tools like spectroscopy can detect features invisible to the naked eye. This mirrored real planetary science techniques, such as how the Lunar Reconnaissance Orbiter used ultraviolet imaging to detect water ice in shadowed lunar craters.
 
 
 <div class="row justify-content-center">
-    <div class="col-md-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/sefs/img1.jpg" title="Butterflies" class="img-fluid rounded z-depth-1" %}
-    <div class="col-md-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi/img2.jpg" title="Rocks" caption="Photos by Kristen Grace (Florida Museum)" class="img-fluid rounded z-depth-1" %}    
+    <div class="col-md-7 mt-3 mt-md-0">
+        {% include video.liquid loading="eager" path="assets/img/teaching-outreach/pio/cratering.mp4" title="Cratering Experiment" controls=true caption="Slow motion video of some impact cratering!" class="img-fluid rounded z-depth-1" %}
     </div>
-
 </div>
-
 
