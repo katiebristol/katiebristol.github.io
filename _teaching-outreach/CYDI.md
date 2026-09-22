@@ -2,14 +2,14 @@
 layout: page
 title: Can You Dig It?
 description: Florida Museum of Natural History
-img: assets/img/teaching-outreach/cydi-sandbox.jpg
+img: assets/img/teaching-outreach/cydi/sandbox.jpg
 importance: 1
 category: outreach
 ---
 
 <div class="row justify-content-center">
     <div class="col-md-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi-logos.png" title="Logos" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi/logos.png" title="Logos" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -28,7 +28,7 @@ In this interactive activity, kids tested a variety of samples using a small mag
 
 <div class="row justify-content-center">
     <div class="col-md-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi-rockchoc.jpg" title="Rock or Choc" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi/rockchoc.jpg" title="Rock or Choc" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -37,7 +37,7 @@ In this hands-on activity, kids explored the forces of magnetism and gravity by 
 
 <div class="row justify-content-center">
     <div class="col-md-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi-magvsgrav.jpg" title="Mag vs. Grav" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi/magvsgrav.jpg" title="Mag vs. Grav" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -46,7 +46,7 @@ In this activity, students had the unique opportunity to use a paleomagnetic dri
 
 <div class="row justify-content-center">
     <div class="col-md-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi-rockdrilling.jpg" title="Mag vs. Grav" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/cydi/rockdrilling.jpg" title="Mag vs. Grav" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -57,6 +57,6 @@ The trashcan volcano in action!
 
 <div class="row justify-content-center">
     <div class="col-md-7 mt-3 mt-md-0">
-        {% include video.liquid loading="eager" path="assets/img/teaching-outreach/cydi-trashcanvolcano.mp4" title="Trashcan Volcano" controls=true class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid loading="eager" path="assets/img/teaching-outreach/cydi/trashcanvolcano.mp4" title="Trashcan Volcano" controls=true class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
