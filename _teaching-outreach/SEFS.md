@@ -25,7 +25,7 @@ If you are a scientist in Florida and want to participate, you can sign up [here
     <div class="col-md-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/sefs/img1.jpg" title="Butterflies" class="img-fluid rounded z-depth-1" %}
     <div class="col-md-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/sefs/img2.jpg" title="Rocks"class="img-fluid rounded z-depth-1" %}    
+        {% include figure.liquid loading="eager" path="assets/img/teaching-outreach/sefs/img2.jpg" title="Rocks" class="img-fluid rounded z-depth-1" %}    
     </div>
     <p> Photos by Kristen Grace (Florida Museum)
 
