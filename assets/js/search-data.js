@@ -82,12 +82,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "teaching-outreach-can-you-dig-it",
           title: 'Can You Dig It?',
-          description: "CYDI is an annual family-friendly event where participants get to dig into the wonders of geology and discover the Earth.",
+          description: "Florida Museum of Natural History",
           section: "Teaching-outreach",handler: () => {
               window.location.href = "/teaching-outreach/CYDI/";
             },},{id: "teaching-outreach-girls-do-science",
           title: 'Girls Do Science',
-          description: "To celebrate International Women and Girls in Science Day this free, family-friendly program features hands-on activities, engaging experiments, and opportunities to connect with scientists from a variety of fields.",
+          description: "Florida Museum of Natural History",
           section: "Teaching-outreach",handler: () => {
               window.location.href = "/teaching-outreach/GirlsDoScience/";
             },},{
