@@ -20,13 +20,12 @@ As a Visiting Scientist for Collier County Public Schools, I had the opportunity
 If you are a scientist in Florida and want to participate, you can sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdsIgXP7AxyV7JLbv7smvcTPkP2JvbAncJ6MOAECBBtrdS9CA/viewform?pli=1). K-12 Teachers in Florida can request a scientist [here](https://docs.google.com/forms/d/e/1FAIpQLSdGNp5sfIhci_OMyI2VyafGmxgL8yHq5DZ7rRlJ6DMbBI58pw/viewform).
 
 <div class="row justify-content-sm-center align-items-stretch">
-    <div class="col-sm-4 mt-3 mt-md-0 d-flex">
+    <div class="col-sm-5 mt-3 mt-md-0 d-flex">
         {% include figure.liquid path="assets/img/teaching-outreach/sefs/img1.jpg" title="Butterflies" class="img-fluid rounded z-depth-1 w-100 h-100 style-cover" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0 d-flex">
-        {% include figure.liquid path="assets/img/teaching-outreach/sefs/img2.jpg" title="Rocks" class="img-fluid rounded z-depth-1 w-100 h-100 style-cover" %}
+    <div class="col-sm-5 mt-3 mt-md-0 d-flex">
+        {% include figure.liquid path="assets/img/teaching-outreach/sefs/img2.jpg" title="Rocks" caption="Photos by Kristen Grace (Florida Museum)" class="img-fluid rounded z-depth-1 w-100 h-100 style-cover" %}
     </div>
-    <p> Photos by Kristen Grace (Florida Museum)</p>
 </div>
 
 
