@@ -84,6 +84,6 @@ description: "Links to helpful texts, tools, and other resources."
 
 <p class="mb-4">If you don't see your lab here and would like me to add it, please email me!</p>
 
-<div class="ratio ratio-4x3 mb-5">
-    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CJLcuKGXVUoZwYTYgaWJ77Uv5u_Qe-4&ehbc=2E312F" style="border: 0;" allowfullscreen="" loading="lazy"></iframe>
+<div class="w-100 mb-5" style="max-width: 100%;">
+    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CJLcuKGXVUoZwYTYgaWJ77Uv5u_Qe-4&ehbc=2E312F" width="100%" height="500" style="border: 0; min-height: 480px;" allowfullscreen="" loading="lazy"></iframe>
 </div>
