@@ -28,7 +28,7 @@ ninja.data = [{
           description: "Abbreviated CV below. Click the icon to the right for my full CV.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/CV.pdf";
           },
         },{id: "dropdown-teaching-outreach",
               title: "teaching+outreach",
