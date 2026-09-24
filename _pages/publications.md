@@ -16,12 +16,12 @@ nav_order: 2
 <div class="publications">
 
 <h2>journal articles</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @article %}
+{% bibliography -f {{ site.scholar.bibliography }} -q @article %}
 
-  <h2>conference talks</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @inproceedings %}
+<h2>conference talks</h2>
+{% bibliography -f {{ site.scholar.bibliography }} -q @inproceedings[keywords^=talk] %}
 
-  <h2>abstracts and posters</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @conference %}
+<h2>abstracts and posters</h2>
+{% bibliography -f {{ site.scholar.bibliography }} -q @inproceedings[keywords^=poster] %}
 
 </div>
